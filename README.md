@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is John O'Brien and I became obsessed with data science while persuing my MBA.
+- 🔭 I’m currently working on posting more concrete examples of my data science work on here.
+- 👯 I’m looking to collaborate on FinTech Agentic AI usecases.
+- 💬 Ask me about golf if you need a break from your GitHub grind.
+- ⚡ Fun fact: Rome was not built in a day.
+
 <!--
 **Jacksonville14/Jacksonville14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
